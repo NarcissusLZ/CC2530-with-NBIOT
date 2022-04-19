@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_air.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_air.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_relay.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_relay.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_resource.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_resource.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_data.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_data.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_choose.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_choose.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_help.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_help.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_object.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_object.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_up.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_humidity.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_humidity.xml"
+    },
+    {
+        "merged": "/Users/narcissus/Documents/android/SmartAnimal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_temp.xml",
+        "source": "/Users/narcissus/Documents/android/SmartAnimal/app/src/main/res/layout/activity_temp.xml"
+    }
+]

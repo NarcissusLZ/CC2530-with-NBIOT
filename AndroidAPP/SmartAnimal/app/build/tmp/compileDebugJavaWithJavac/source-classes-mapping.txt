@@ -1,0 +1,24 @@
+com/example/smartanimal/databinding/ActivityDataBinding.java
+ com.example.smartanimal.databinding.ActivityDataBinding
+com/example/smartanimal/databinding/ActivityHumidityBinding.java
+ com.example.smartanimal.databinding.ActivityHumidityBinding
+com/example/smartanimal/databinding/ActivityTempBinding.java
+ com.example.smartanimal.databinding.ActivityTempBinding
+com/example/smartanimal/databinding/ActivityMainBinding.java
+ com.example.smartanimal.databinding.ActivityMainBinding
+com/example/smartanimal/databinding/ActivitySignUpBinding.java
+ com.example.smartanimal.databinding.ActivitySignUpBinding
+com/example/smartanimal/databinding/ActivityHelpBinding.java
+ com.example.smartanimal.databinding.ActivityHelpBinding
+com/example/smartanimal/databinding/ActivityAirBinding.java
+ com.example.smartanimal.databinding.ActivityAirBinding
+com/example/smartanimal/databinding/ActivityChooseBinding.java
+ com.example.smartanimal.databinding.ActivityChooseBinding
+com/example/smartanimal/BuildConfig.java
+ com.example.smartanimal.BuildConfig
+com/example/smartanimal/databinding/ActivityRelayBinding.java
+ com.example.smartanimal.databinding.ActivityRelayBinding
+com/example/smartanimal/databinding/ActivityLoginBinding.java
+ com.example.smartanimal.databinding.ActivityLoginBinding
+com/example/smartanimal/databinding/ActivityObjectBinding.java
+ com.example.smartanimal.databinding.ActivityObjectBinding
